@@ -1,2 +1,2 @@
-# mySolarized
-My Solarized based rice
+# mySolarized based rice :)
+
